@@ -1,40 +1,54 @@
 # 使用指南
 
-## 说明
+## 系统要求
 
-在开始之前，请确保
+在开始安装之前，请确保您的系统满足以下要求：
 
-- window版本符合[要求](README.md#受支持的window版本)
-- [webvie2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/?form=MA13LH) 组件已安装
+- Windows 版本符合[要求](README.md#受支持的window版本)
+- 已安装 [WebView2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/?form=MA13LH) 组件
 
-> Voxesis 本身对系统资源占用不高，对硬件要求不高，但是 GUI(用户界面)
-> 是在webvie2中渲染的因此会和CPU或GPU的性能挂钩。如果出现Voxesis进程占用过高，大概率是拓展的问题。可以考虑卸载拓展或者联系拓展的开发者修复。
+> Voxesis 本身对系统资源占用不高，对硬件要求也不高。但 GUI（用户界面）是在 WebView2 中渲染的，因此会与 CPU 或 GPU 的性能相关。如果出现 Voxesis 进程占用过高的情况，很可能是扩展插件导致的问题。您可以考虑卸载相关扩展或联系扩展开发者进行修复。
 
-## 安装
+## 安装步骤
 
-> 访问Voxesis的开源库的[下载页](https://gitee.com/Maskviva/voxesis/releases)，推荐选择最新版，点击 Voxesis-amd64-installer.exe 开始下载。
+按照以下步骤安装 Voxesis：
+
+### 1. 下载安装包
+
+访问 Voxesis 开源库的[下载页面](https://gitee.com/Maskviva/voxesis/releases)，推荐选择最新版本，点击 `Voxesis-amd64-installer.exe` 开始下载。
+
 <div>
     <img src="img.png" width="100%" style="max-width: 640px"/>
 </div>
 
-> 下载完成后，双击exe文件进行安装
+### 2. 启动安装程序
+
+下载完成后，双击 `.exe` 文件启动安装程序。
+
 <div>
     <img src="img_1.png" width="100%" style="max-width: 320px"/>
 </div>
 
-> 点击下一步后，选择合适的安装位置，点击安装。
+### 3. 选择安装位置
+
+点击"下一步"后，选择合适的安装位置，然后点击"安装"。
+
 <div>
     <img src="img_2.png" width="100%" style="max-width: 320px"/>
 </div>
 
-> 安装完成后点击下一步。
+### 4. 完成安装
+
+安装完成后点击"下一步"。
+
 <div>
     <img src="img_3.png" width="100%" style="max-width: 320px"/>
 </div>
 
-> 点击完成，安装完成，点击桌面的Voxesis快捷方式启动查询。
+### 5. 启动应用
+
+点击"完成"按钮结束安装过程，然后点击桌面的 Voxesis 快捷方式启动应用程序。
+
 <div>
     <img src="img_4.png" width="100%" style="max-width: 320px"/>
 </div>
-
-
