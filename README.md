@@ -13,7 +13,7 @@ Voxesis 即装即用，拥有基础的服务器管理功能，简单的拓展开
 ## 系统要求
 
 - Windows 10+ 支持 ConPTY [受支持的window版本列表](#受支持的window版本)
-- 有安装 [webvie2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/?form=MA13LH) 组件
+- 有安装 [WebView2](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/?form=MA13LH) 组件
 
 ## 获取帮助
 
