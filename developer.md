@@ -39,8 +39,11 @@ pnpm install
 
 ### 开发与构建命令
 
-- `npm run dev-both` - 启动开发服务器
+- `npm run dev` - 启动开发服务器
 - `npm run build` - 构建生产版本，打包后的文件会生成在 `dist` 文件夹下
+
+> 我们提供了一个开发工具 [voxesis-plugin-cli](https://www.npmjs.com/package/voxesis-plugin-cli?activeTab=readme)
+> 上述的dev的页面就是voxesis-plugin-cli提供的
 
 ## 项目结构
 
