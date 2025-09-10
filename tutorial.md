@@ -9,7 +9,7 @@
 打开 Voxesis，在左侧边栏点击设置图标进入设置页面。
 
 <div>
-    <img src="img_5.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_5.png" width="100%" style="max-width: 320px"/>
 </div>
 
 ### 2. 配置选项
@@ -44,7 +44,7 @@ LLOneBot 的安装和基础配置。
 #### 2.3 服务器设置
 
 <div>
-    <img src="img_6.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_6.png" width="100%" style="max-width: 320px"/>
 </div>
 
 服务器设置页面包含 MC 服务器目录设置：
@@ -58,7 +58,7 @@ LLOneBot 的安装和基础配置。
 完成上述配置后，您就可以开始使用 Voxesis 管理您的 Minecraft 服务器了。点击左侧边栏的"仪表盘"进入主界面。
 
 <div>
-    <img src="img_7.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_7.png" width="100%" style="max-width: 320px"/>
 </div>
 
 ### 仪表盘功能概览
@@ -105,7 +105,7 @@ server.properties、bukkit.yml 等，无需手动寻找文件位置。
 进入控制台页面可以查看服务器实时日志和执行命令：
 
 <div>
-    <img src="img_8.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_8.png" width="100%" style="max-width: 320px"/>
 </div>
 
 控制台支持多种 Minecraft 服务器核心，包括 Levilamina 和原生 BDS。主要功能包括：

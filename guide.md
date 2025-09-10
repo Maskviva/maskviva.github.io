@@ -18,7 +18,7 @@
 访问 Voxesis 开源库的[下载页面](https://gitee.com/Maskviva/voxesis/releases)，推荐选择最新版本，点击 `Voxesis-amd64-installer.exe` 开始下载。
 
 <div>
-    <img src="img.png" width="100%" style="max-width: 640px"/>
+    <img src="assets/images/img.png" width="100%" style="max-width: 640px"/>
 </div>
 
 ### 2. 启动安装程序
@@ -26,7 +26,7 @@
 下载完成后，双击 `.exe` 文件启动安装程序。
 
 <div>
-    <img src="img_1.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_1.png" width="100%" style="max-width: 320px"/>
 </div>
 
 ### 3. 选择安装位置
@@ -34,7 +34,7 @@
 点击"下一步"后，选择合适的安装位置，然后点击"安装"。
 
 <div>
-    <img src="img_2.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_2.png" width="100%" style="max-width: 320px"/>
 </div>
 
 ### 4. 完成安装
@@ -42,7 +42,7 @@
 安装完成后点击"下一步"。
 
 <div>
-    <img src="img_3.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_3.png" width="100%" style="max-width: 320px"/>
 </div>
 
 ### 5. 启动应用
@@ -50,5 +50,5 @@
 点击"完成"按钮结束安装过程，然后点击桌面的 Voxesis 快捷方式启动应用程序。
 
 <div>
-    <img src="img_4.png" width="100%" style="max-width: 320px"/>
+    <img src="assets/images/img_4.png" width="100%" style="max-width: 320px"/>
 </div>
