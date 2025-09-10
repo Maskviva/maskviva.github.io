@@ -12,4 +12,5 @@
     - [文件类](api/file.md)
     - [其他模块](api/other.md)
     - [类型](api/type.md)
+    - [主题样式](api/theme.md)
 - [常见问题](faq.md)
