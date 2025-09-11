@@ -17,33 +17,21 @@
 
 ### 获取插件模板
 
-在安装好 NodeJS 后，需要从 [Voxesis 插件示例仓库](https://gitee.com/Maskviva/voxesis-plugin-example) 获取插件模板。您可以使用
-Git 工具克隆仓库，或者下载 ZIP 文件。
+在安装好 NodeJS 后执行下方命令全局安装我们的CLI工具 。
 
 ```bash
-git clone https://gitee.com/Maskviva/voxesis-plugin-example.git
+# 可使用yarn pnpm等安装
+npm i -g voxesis-plugin-cli
 ```
 
-### 安装依赖
-
-进入项目目录后，安装所需的 Node 模块：
+安装好后需使用`voxesis-plugin-cli`创建一个插件模板。\
+运行:
 
 ```bash
-# 使用 npm
-npm install
-# 或使用 yarn
-yarn install
-# 或使用 pnpm
-pnpm install
+voxesis-plugin-cli create
 ```
 
-### 开发与构建命令
-
-- `npm run dev` - 启动开发服务器
-- `npm run build` - 构建生产版本，打包后的文件会生成在 `dist` 文件夹下
-
-> 我们提供了一个开发工具 [voxesis-plugin-cli](https://www.npmjs.com/package/voxesis-plugin-cli?activeTab=readme)
-> 上述的dev的页面就是voxesis-plugin-cli提供的
+按引导填写项目信息后会生成一个插件模板按照引导操作。
 
 ## 项目结构
 
@@ -123,4 +111,5 @@ type Item =
 
 ## 发布插件
 
-构建完成后，将 `dist` 目录中会生成一个以你插件名称命名的文件夹，这个文件夹直接放入 Voxesis 的plugins目录下就可以使用了，在发布时应把这个文件夹打包成压缩文件。
+构建完成后，将 `dist` 目录中会生成一个以你插件名称命名的文件夹，这个文件夹直接放入 Voxesis
+的plugins目录下就可以使用了，在发布时应把这个文件夹打包成压缩文件。
